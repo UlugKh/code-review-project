@@ -1,0 +1,356 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.7.26)  29 JUL 2026 09:58
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./main.tex
+(main.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+(experimentreport.cls
+
+LaTeX Warning: You have requested document class `experimentreport',
+               but the document class provides `experimentreport_nocjk'.
+
+Document Class: experimentreport_nocjk 2026/06/11 Course Experiment Report Clas
+s
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@section=\count276
+\c@subsection=\count277
+\c@subsubsection=\count278
+\c@paragraph=\count279
+\c@subparagraph=\count280
+\c@figure=\count281
+\c@table=\count282
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+)
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2026/03/07 v6.0 Page Geometry
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count283
+\Gm@cntv=\count284
+\c@Gm@tempcnt=\count285
+\Gm@bindingoffset=\dimen149
+\Gm@wd@mp=\dimen150
+\Gm@odd@mp=\dimen151
+\Gm@even@mp=\dimen152
+\Gm@layoutwidth=\dimen153
+\Gm@layoutheight=\dimen154
+\Gm@layouthoffset=\dimen155
+\Gm@layoutvoffset=\dimen156
+\Gm@dimlist=\toks18
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
+\col@sep=\dimen157
+\ar@mcellbox=\box53
+\extrarowheight=\dimen158
+\NC@list=\toks19
+\extratabsurround=\skip51
+\backup@length=\skip52
+\ar@cellbox=\box54
+)
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+\TX@col@width=\dimen159
+\TX@old@table=\dimen160
+\TX@old@col=\dimen161
+\TX@target=\dimen162
+\TX@delta=\dimen163
+\TX@cols=\count286
+\TX@ftn=\toks20
+)
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box55
+\beforetitleunit=\skip53
+\aftertitleunit=\skip54
+\ttl@plus=\dimen164
+\ttl@minus=\dimen165
+\ttl@toksa=\toks21
+\titlewidth=\dimen166
+\titlewidthlast=\dimen167
+\titlewidthfirst=\dimen168
+)
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cf
+g
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen169
+\Gin@req@width=\dimen170
+) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/ulem\ulem.sty
+\UL@box=\box56
+\UL@hyphenbox=\box57
+\UL@skip=\skip55
+\UL@hook=\toks22
+\UL@height=\dimen171
+\UL@pe=\count287
+\UL@pixel=\dimen172
+\ULC@box=\box58
+Package: ulem 2019/11/18
+\ULdepth=\dimen173
+))
+(listing_style.tex
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count288
+\lst@gtempboxa=\box59
+\lst@token=\toks23
+\lst@length=\count289
+\lst@currlwidth=\dimen174
+\lst@column=\count290
+\lst@pos=\count291
+\lst@lostspace=\dimen175
+\lst@width=\dimen176
+\lst@newlines=\count292
+\lst@lineno=\count293
+\lst@maxwidth=\dimen177
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
+File: lstpatch.sty 2025/11/14 1.11b (Carsten Heinz)
+)
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
+\c@lstnumber=\count294
+\lst@skipnumbers=\count295
+\lst@framebox=\box60
+)
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2025/11/14 1.11b listings configuration
+))
+Package: listings 2025/11/14 1.11b (Carsten Heinz)
+
+==> First Aid for listings.sty no longer applied!
+    Expected:
+        2024/09/23 1.10c (Carsten Heinz)
+    but found:
+        2025/11/14 1.11b (Carsten Heinz)
+    so I'm assuming it got fixed.
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+))
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
+ex.def
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count296
+) (main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(73.97733pt, 449.55322pt, 73.97733pt)
+* v-part:(T,H,B)=(62.59596pt, 719.85492pt, 62.59596pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=449.55322pt
+* \textheight=719.85492pt
+* \oddsidemargin=1.70734pt
+* \evensidemargin=1.70734pt
+* \topmargin=-46.67403pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
+i
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count297
+\scratchdimen=\dimen178
+\scratchbox=\box61
+\nofMPsegments=\count298
+\nofMParguments=\count299
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count300
+\MPscratchDim=\dimen179
+\MPnumerator=\count301
+\makeMPintoPDFobject=\count302
+\everyMPtoPDFconversion=\toks25
+)
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
+se.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cf
+g
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+\c@lstlisting=\count303
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 26.
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+[]|\OT1/cmr/m/n/12 Ulugbek Khami-dov,
+ []
+
+
+Overfull \hbox (11.10551pt too wide) in paragraph at lines 26--26
+[]|\OT1/cmr/m/n/12 HITCodeReviewResearch| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+[]|\OT1/cmr/m/n/12 2026140348,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+[]|\OT1/cmr/m/n/12 Discussion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+[]|\OT1/cmr/m/n/12 Total Ex-per-i-
+ []
+
+
+Overfull \hbox (21.09967pt too wide) in paragraph at lines 61--62
+\OT1/cmr/m/n/12 C4[]Diff[]Review[]History: Diff + his-tor-i-cal re-views and in
+-line com-ments - C5[]Full[]SE[]Context:
+ []
+
+! I can't write on file `main.pdf'.
+(Press Enter to retry, or Control-C to exit; default file extension is `.pdf')
+Please type another file name for output: report4
+[1
+
+{C:/Users/user/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+<exp4_context_comparison.png, id=7, 867.24pt x 433.62pt>
+File: exp4_context_comparison.png Graphic file (type png)
+<use exp4_context_comparison.png>
+Package pdftex.def Info: exp4_context_comparison.png  used on input line 126.
+(pdftex.def)             Requested size: 359.64394pt x 179.82323pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<exp4_prompt_comparison.png, id=9, 722.7pt x 433.62pt>
+File: exp4_prompt_comparison.png Graphic file (type png)
+<use exp4_prompt_comparison.png>
+Package pdftex.def Info: exp4_prompt_comparison.png  used on input line 126.
+(pdftex.def)             Requested size: 359.64394pt x 215.7839pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<exp4_f1_heatmap.png, id=10, 722.7pt x 578.16pt>
+File: exp4_f1_heatmap.png Graphic file (type png)
+<use exp4_f1_heatmap.png>
+Package pdftex.def Info: exp4_f1_heatmap.png  used on input line 126.
+(pdftex.def)             Requested size: 359.64394pt x 287.71187pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[2] [3 <./exp4_context_comparison.png> <./exp4_prompt_comparison.png>] [4 <./ex
+p4_f1_heatmap.png>] [5] [6] (main.aux)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 4378 strings out of 467871
+ 67851 string characters out of 5418860
+ 494282 words of memory out of 5000000
+ 33235 multiletter control sequences out of 15000+600000
+ 632418 words of font info for 56 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,8n,79p,420b,266s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1
+200.pk><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmbx12.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmr12.pfb>
+Output written on report4.pdf (6 pages, 485352 bytes).
+PDF statistics:
+ 45 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+

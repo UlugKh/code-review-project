@@ -1,0 +1,14 @@
+{
+  "total_prs": 10700,
+  "merged": 3797,
+  "unmerged": 6903,
+  "merge_rate": 0.35485981308411213,
+  "avg_additions": 1444.7546728971963,
+  "avg_deletions": 74.94046728971962,
+  "avg_files": 15.158878504672897,
+  "avg_commits": 1.9966355140186915,
+  "avg_reviewers": 0.6549532710280374,
+  "avg_comments": 0.5232710280373831,
+  "has_ai_reviewer": 2464,
+  "has_ai_code": 3937
+}
