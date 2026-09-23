@@ -1,6 +1,6 @@
 # Code Review Research
 
-This project studies how traditional machine-learning models and large language models can support software code review. It uses GitHub pull-request data to examine merge prediction and review-comment generation for both human-written and AI-generated code.
+This HITGSS summer-school research project was completed by **Ulugbek Khamidov** and **Komil Tokhirov**. It studies how traditional machine-learning models and large language models can support software code review. It uses GitHub pull-request data to examine merge prediction and review-comment generation for both human-written and AI-generated code.
 
 The reports cover four stages:
 
