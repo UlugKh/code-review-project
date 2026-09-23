@@ -1,0 +1,21 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Notebook and tool metadata
+.ipynb_checkpoints/
+.vscode/
+
+# LaTeX build output
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+texput.log
+
+# Temporary checkpoints and backups
+*.bak
+*_checkpoint.txt
